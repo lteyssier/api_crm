@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "luis",
+      "empresa": "stark industries ",
+      "email": "luis@gmail.com",
+      "telefono": "45362829",
+      "notas": "señor de los anillos ",
+      "id": 1
+    },
+    {
+      "nombre": "Antonio",
+      "empresa": "stark industries 2",
+      "email": "luisantonio@gmail.com",
+      "telefono": "4536282933",
+      "notas": "señor de los anillos ",
+      "id": 3
+    },
+    {
+      "nombre": "pablo",
+      "empresa": "marmol industries",
+      "email": "marmol@inc.com",
+      "telefono": "76829002",
+      "notas": "tiene cara de perro y come croquetas de gato",
+      "id": 4
+    }
+  ]
+}
